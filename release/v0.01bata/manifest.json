@@ -1,0 +1,27 @@
+{
+  "product": "射了没",
+  "version": "v0.01bata",
+  "recordedAt": "2026-06-17T10:30:27+08:00",
+  "baselineCommit": "946c35d",
+  "packageName": "v0.01bata.pkg",
+  "packageInstallLocation": "/Users/Shared/shelemei-v0.01bata",
+  "android": {
+    "appId": "com.xiabu.shelemei",
+    "appName": "射了没",
+    "artifact": "android/shelemei-v0.01bata-debug.apk",
+    "kind": "debug-apk"
+  },
+  "web": {
+    "artifact": "web-dist",
+    "kind": "vite-static-build"
+  },
+  "documents": [
+    "product-doc.md",
+    "install-notes.md"
+  ],
+  "notes": [
+    "This release name intentionally keeps the user-provided spelling v0.01bata.",
+    "The Android artifact is for personal testing, not a signed production release.",
+    "AI behavior uses MockAiProvider in this release."
+  ]
+}

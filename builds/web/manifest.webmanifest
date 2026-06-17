@@ -1,0 +1,18 @@
+{
+  "name": "射了没",
+  "short_name": "射了没",
+  "description": "轻量男性身体记录与 AI 复盘",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#f4f1fb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
